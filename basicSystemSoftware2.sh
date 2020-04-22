@@ -968,8 +968,8 @@ rm -rf procps-ng-3.3.15
 
 #Install util-linux-2.35.1
 
-tar -xf Util-linux-2.35.1.tar.xz
-cd Util-linux-2.35.1
+tar -xf util-linux-2.35.1.tar.xz
+cd util-linux-2.35.1
 
 mkdir -pv /var/lib/hwclock
 
